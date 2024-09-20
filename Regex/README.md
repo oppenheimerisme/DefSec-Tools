@@ -1,0 +1,1 @@
+Welcome to the Regex Search Queries repository! This repository contains a curated collection of Regular Expressions (Regex) designed for various search, extraction, and data manipulation tasks. Whether you are working with logs, text files, or programming data streams, these regex queries will help you search and manipulate text more efficiently.
