@@ -1,0 +1,7 @@
+## Investigation Tools
+
+- [**Process Hacker**](https://processhacker.sourceforge.io/) - Great tool for monitoring the system and detecting suspicious situations. It’s also free.
+- [**Procmon**](https://learn.microsoft.com/tr-tr/sysinternals/downloads/procmon) - Procmon(Process Monitor) tool is a useful tool that provides real-time information by monitoring the activities of processes on Windows.
+- [**Volatility**](https://www.volatilityfoundation.org/) - Volatility is a tool that enables the analysis of memory dumps taken from a compromised machine during the incident response process.
+- [**Wireshark**](https://www.wireshark.org/ ) - Wireshark is a tool that allows capturing, analyzing, and recording network packets passing through network interfaces on the system.
+- [**BrowsingHistoryView**](https://www.nirsoft.net/utils/browsing_history_view.html) - It gives you the history of different browsers in one table.
